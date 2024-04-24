@@ -9,6 +9,13 @@
 
 ---------------------------------------------------------------------------------------------------
 🚀 Languages and Technologies:
+
+![image](https://github.com/Surya0511/Surya0511/assets/88575112/6d271116-9f6a-41df-a0c3-a492f1ea25ff)
+
+![image](https://github.com/Surya0511/Surya0511/assets/88575112/01646008-42bc-44d5-b56c-1a59148597a5)
+
+
+
 ![image](https://github.com/Surya0511/Surya0511/assets/88575112/bba1a795-52a3-4301-91b8-a2baa21131c5)
 
 
