@@ -1,10 +1,10 @@
 - 👋 HELLO, Myself @Surya0511, currently Cloud Engineer exploring DevOps. #TechEnthusiast!
 
 ---------------------------------------------------------------------------------------------------
-  
-- 👀 I’m interested in ... Developing Human Valuable Projects     
+       
 - 🌱 I’m currently learning ... Code and Commit to improve CI / CD
 - 💞️ I’m looking to collaborate on ... Cloud and Devops Engineer Role Technologies
+- 👀 I’m interested in ... Developing Valuable Projects to Mankind, all liable with Humankind.
 - 📫 How to reach me ... linktr.ee/surya0511 | insta : suryaprakashm_0511, Ring: +91 9168188997
 
 ---------------------------------------------------------------------------------------------------
