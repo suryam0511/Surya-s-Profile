@@ -2,9 +2,9 @@
 
 ---------------------------------------------------------------------------------------------------
        
-- 🌱 I’m currently learning ... Code and Commit to improve CI / CD
-- 💞️ I’m looking to collaborate on ... Cloud and Devops Engineer Role Technologies
-- 👀 I’m interested in ... Developing Valuable Projects to Mankind, all liable with Humankind.
+- 🌱 I’m currently into ... Code and Commit to improve CI / CD
+- 💞️ Lets collaborate on ... Cloud and Devops Engineer Role Technologies
+- 👀 Interested in ... Developing Valuable Projects to Mankind, all liable with Humankind.
 - 📫 How to reach me ... linktr.ee/surya0511 | insta : suryaprakashm_0511, Ring: +91 9168188997
 
 ---------------------------------------------------------------------------------------------------
